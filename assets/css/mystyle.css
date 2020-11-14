@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&family=Roboto&display=swap');
+
+body, input, select, textarea, h1, h2, h3, h4, h5, h6 {
+		color: #2d334a;
+		font-family: "Poppins", sans-serif;
+	}
+	
+body {background: #fffffe;
+	}
+
+a, a:hover, a:visited {color: #ffd803;}
+
+header.major h2 {
+    color: #272343;
+}
+#header { background: #e3f6f5;
+		color: #2d334a;
+	}
+header p { color: #2d334a;
+		font-style: normal !important;
+	}
+#header a {
+			color: #272343;
+			}
+#header > header p {
+				color: #2d334a;
+				}
+						
+#header > nav ul li {
+					border-top: solid 1px #bae8e8;
+					text-transform: uppercase;
+					/*font-weight: 600;
+					font-size: 16px;*/
+					}
+
+#header > nav ul li a { color: #bae8e8 !important;
+						}
+#header > nav ul li a.active {
+							background: #ffd803;
+							color: #272343 !important;
+							font-weight: 600;
+							}
+#header a:hover {color: #272343 !important;
+				}
+.mobile-only {display:none;
+				}
+ul.icons li {padding-right: 0.5em;
+}
+#header > footer .icons li a:hover {color: #272343 !important;}
+
+ul.feature-icons li:before {
+    background: #ffd803;
+    color: #272343;
+}
+.btn-primary {
+    color: #bae8e8 !important;
+    background-color: #e3f6f5 !important;
+    border-color: #e3f6f5 !important;
+}
+.btn-primary:hover {
+  color: #272343 !important;
+  background-color: #ffd803 !important;
+  border-color: #ffd803 !important;
+}		
+.portfolio-modal .close {color: #ffd803 !important;}
+
+#footer {
+    background: #272343;
+    color: #bae8e8;
+	}
+
+#titleBar .toggle:before {background: #e3f6f5;
+						color:  #272343;
+					}
+#titleBar .title {
+					color: #bae8e8 !important;}
+
+.title {background: #272343;
+}
+.title a:visited {color: #bae8e8 !important}
+
+header.major h2 + p {
+    font-weight: 400;
+    color: #272343; }
+
+.contact-me {text-decoration: underline;
+    font-weight: 400;
+	color: #ffd803;}
+
+.fa-star {
+    color: #ffd803 !important;
+}
+
+.features article, #main > section {
+    border-color:#e3f6f5;}
+
+strong, b {
+    color: #272343;}
+
+.image img {cursor: pointer;}
+
+span.bg-overlay{
+  background:#bae8e8;
+  display:inline-block;
+  border-radius: 5px;
+}
+span.bg-overlay img{
+  vertical-align:middle;
+  transition: opacity 0.3s;
+  -webkit-transition: opacity 0.3s;
+}
+span.bg-overlay:hover img{
+  opacity:0;
+  cursor: pointer;
+}
+
+.bg-overlay i.fas {
+  display: none;
+  position: absolute;
+    top: 47%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    font-size: 60px;
+    cursor: pointer;
+}
+.bg-overlay:hover > i.fas {
+  display: block;
+    position: absolute;
+    top: 47%;
+    left: 45%;}
+
+.copyright {
+    background-color: #272343 !important;
+}
+.computer {position: absolute;
+
+}
+
+ul.icons {color: #bae8e8;}
