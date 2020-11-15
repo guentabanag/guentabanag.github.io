@@ -17,7 +17,7 @@
 			<section id="header">
 				<header>
 					<span class="image avatar"><img src="images/guen-profile.jpg" alt="Guen being cool on the photo" /></span>
-					<h1 id="logo" class="mobile-only"><a href="#">Guen Tabanag</a></h1>
+					<h1 id="logo" class="mobile-only"><a href="#" class="small-view">Guen Tabanag</a></h1>
 					<a href="#"><img src="images/name-logo.png" alt="Guen Tabanag's logo" /></a>
 					<p>I'm Into Web Development</p>
 				</header>
