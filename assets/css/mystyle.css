@@ -7,7 +7,6 @@ body, input, select, textarea, h1, h2, h3, h4, h5, h6 {
 	
 body {background: #fffffe;
 	}
-
 a, a:hover, a:visited {color: #ffd803;}
 
 header.major h2 {
@@ -72,12 +71,9 @@ ul.feature-icons li:before {
 #titleBar .toggle:before {background: #e3f6f5;
 						color:  #272343;
 					}
-#titleBar .title {
-					color: #bae8e8 !important;}
-
-.title {background: #272343;
-}
+#titleBar .title a {color: #bae8e8 !important;}
 .title a:visited {color: #bae8e8 !important}
+.title {background: #272343;}
 
 header.major h2 + p {
     font-weight: 400;
