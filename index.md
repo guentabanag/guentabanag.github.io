@@ -31,8 +31,8 @@
 				</nav>
 				<footer>
 					<ul class="icons">
-						<li><a href="https://www.linkedin.com/in/guen/" class="icon brands fa-linkedin"><span class="label">Linked In</span></a></li>
-						<li><a href="https://github.com/guendlyn" class="icon brands fa-github"><span class="label">Github</span></a></li>
+						<li><a href="https://www.linkedin.com/in/guen/" class="icon brands fa-linkedin" target="_blank"><span class="label">Linked In</span></a></li>
+						<li><a href="https://github.com/guentabanag/" class="icon brands fa-github" target="_blank"><span class="label">Github</span></a></li>
 					</ul>
 				</footer>
 			</section>
