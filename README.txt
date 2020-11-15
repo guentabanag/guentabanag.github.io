@@ -1,4 +1,4 @@
-HTML/CSS Modified - Read Only by html5up.net
+HTML/CSS Modified - Read Only from html5up.net
 
 
 Credits:
