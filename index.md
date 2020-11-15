@@ -1,7 +1,9 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Guen - Women In Tech - Web Developer</title>
+		<title>Guen Tabanag, a Web Developer based from Sydney</title>
+		<meta name="description" content="A #woman_in_tech who loves building your internet present using custom Wordpress pages.">
+		<meta name=”robots” content="index, follow">
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -14,9 +16,9 @@
 		<!-- Header -->
 			<section id="header">
 				<header>
-					<span class="image avatar"><img src="images/guen-profile.jpg" alt="" /></span>
+					<span class="image avatar"><img src="images/guen-profile.jpg" alt="Guen being cool on the photo" /></span>
 					<h1 id="logo" class="mobile-only"><a href="#">Guen Tabanag</a></h1>
-					<a href="#"><img src="images/name-logo.png" alt="" /></a>
+					<a href="#"><img src="images/name-logo.png" alt="Guen Tabanag's logo" /></a>
 					<p>I'm Into Web Development</p>
 				</header>
 				<nav id="nav">
@@ -44,7 +46,7 @@
 						<!-- One -->
 							<section id="one">
 								<div class="image main" data-position="center">
-									<img src="images/header-banner-sydney.jpg" alt="" />
+									<img src="images/header-banner-sydney.jpg" alt="Aerial view of Sydney City" />
 								</div>
 								<div class="container">
 									<header class="major">
@@ -92,21 +94,21 @@
 									<p>I always focus on my client's need and one of my goals is to have a fast and efficient turnaround while meeting the standard of the company.</p>
 									<div class="features">
 										<article>
-											<div href="#" class="image"><span class="bg-overlay"><i class="fas fa-arrows-alt"></i></i><img class="img-fluid" data-toggle="modal" data-target="#myModal1" src="images/brigitte-linder-thumbnail.png" alt="" /></span></div>
+											<div href="#" class="image"><span class="bg-overlay"><i class="fas fa-arrows-alt"></i></i><img class="img-fluid" data-toggle="modal" data-target="#myModal1" src="images/brigitte-linder-thumbnail.png" alt="thumbnal project for brigitte linder" /></span></div>
 												<div class="inner">
 												<h4>Brigitte Linder</h4>
 												<p>The task is to create a new <a href="https://www.optimizepress.com/" target="_blank">Optimizepress</a> website for Brigitte Linder that will accept book orders and mentoring, and send out newsletter. I created it using <a href="https://wordpress.org/" target="_blank">Wordpress</a> with HTML/CSS customization, integrated contact form to <a href="https://mailchimp.com/" target="_blank">Mailchip</a> API for her email marketing platform and connected <a href="https://woocommerce.com/" target="_blank">WooCommerce</a> to Paypal to accepts all kind of orders from the website. After a month of delivery I was so happy that client likes my work and finished ahead of schedule.</p>
 											</div>
 										</article>
 										<article>
-										<div href="#" class="image"><span class="bg-overlay"><i class="fas fa-arrows-alt"></i><img class="img-fluid" data-toggle="modal" data-target="#myModal2" src="images/cutting-edge-convention-thumbnail.png" alt="" /></span></div>
+										<div href="#" class="image"><span class="bg-overlay"><i class="fas fa-arrows-alt"></i><img class="img-fluid" data-toggle="modal" data-target="#myModal2" src="images/cutting-edge-convention-thumbnail.png" alt="thumbnal project 2 on telesummit" /></span></div>
 											<div class="inner">
 												<h4>Cutting Edge Convention</h4>
 												<p>Client wanted to launch a website for her online summit, this includes sign up or squeeze page, speaker information pages, promotional page, social media infographics, and A/B testing in <a href="https://analytics.google.com/analytics/web/provision/#/provision" target="_blank">Google Analytics</a>. Made the landing page with Wordpress using <a href="https://www.elegantthemes.com/gallery/divi/" target="_blank">Divi</a> theme with lots of CSS customization. This challenged my CSS skills a lot due to client's limited budget in acquiring Divi paid modules. In which I had to recreate some of these modules and the same time mobile friendly. The time I spent working on her website was worth it because she's super happy and technically I've learned more too.</p>
 											</div>
 										</article>
 										<article>
-											<div href="#" class="image"><span class="bg-overlay"><i class="fas fa-arrows-alt"></i><img class="img-fluid" data-toggle="modal" data-target="#myModal3" src="images/TTF-thumbnail.png" alt="" /></span></div>
+											<div href="#" class="image"><span class="bg-overlay"><i class="fas fa-arrows-alt"></i><img class="img-fluid" data-toggle="modal" data-target="#myModal3" src="images/TTF-thumbnail.png" alt="thumbnail on project 3 for Wendy Collier" /></span></div>
 												<div class="inner">
 												<h4>Ticket To Freedom by Wendy Collier</h4>
 												<p>Client launching her telesummit for the 2nd time. She preferred Wordpress and using <a href="https://www.elegantthemes.com/gallery/divi/" target="_blank">Divi</a> and <a href="https://www.optimizepress.com/" target="_blank">Optimizepress</a> as her themes. My creation involved but not limited to recreation of the landing page's layout, HTML/CSS customization, integration to <a href="https://www.aweber.com/" target="_blank">Aweber</a> (email marketing software) with weekly newsletter setup, speaker interviews editing and infographics for social sharing. Working with her again made it easier because I'm already familiar of the things that needed to be done. I may had encounter url issues on some of her repeated directories but I resolved the matter efficiently.</p>
@@ -136,7 +138,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="images/brigette linder-portfolio.png" alt="" />
+                                    <img class="img-fluid rounded mb-5" src="images/brigette linder-portfolio.png" alt="Website screenshot of Brigette Linder" />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-5"><b>Skillset.</b> Optimizepress, OptimizeMember, Mailchimp, WooCommerce, Paypal, CSS customization</p>
                                     <button class="btn btn-primary" data-dismiss="modal">
@@ -170,7 +172,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="images/cutting edge convention.png" alt="" />
+                                    <img class="img-fluid rounded mb-5" src="images/cutting edge convention.png" alt="Website screenshot of Cutting Edge Convention" />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-5"><b>Skillset.</b> Wordpress, Divi, KEAP (InfusionSoft), HTML/CSS customization, landing page, Photoshop, Facebook social images, Google Analytics</p>
                                     <button class="btn btn-primary" data-dismiss="modal">
@@ -204,7 +206,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="images/Ticket-To-Freedom-Summit.png" alt="" />
+                                    <img class="img-fluid rounded mb-5" src="images/Ticket-To-Freedom-Summit.png" alt="Website screenshot of Ticket To Freedom" />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-5"><b>Skillset.</b> Wordpress, Optimizepress, Divi, Aweber, HTML/CSS customization, landing page, Photoshop, Facebook social images, Video editing, SEO</p>
                                     <button class="btn btn-primary" data-dismiss="modal">
