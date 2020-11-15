@@ -48,8 +48,8 @@
 								</div>
 								<div class="container">
 									<header class="major">
-										<h2>Hi, my name is Guen</h2>
-										<p>Your Web Designer and Developer living in Sydney, Australia. A highly skilled in designing and developing custom Wordpress pages.</p>
+										<h2>Hi, I'm Guen</h2>
+										<p>A highly skilled in designing and developing custom Wordpress pages living in Sydney, Australia.</p>
 									</header>
 									<p>I'm a mother of two from Philippines and have been into freelancing for over 10 years, which made me independent and reliable. I love creating <b>beautiful and functional</b> websites for small businesses. I'm proficient in the area of front-end design and development.</p>
 									<p>When I'm not in my active web development mode. You will see me cooking dinner, baking and hanging out with my family especially to my 3 years old princess or reading self-development books. Which for the first time in my life finished two books I enjoyed during COVID, these are <i>"The Subtle Art of Not Giving a F*ck by Mark Manson"</i> and <i>"The Courage to Be Disliked by Fumitake Koga, Ichiro Kishimi"</i>.</p>
@@ -109,7 +109,7 @@
 											<div href="#" class="image"><span class="bg-overlay"><i class="fas fa-arrows-alt"></i><img class="img-fluid" data-toggle="modal" data-target="#myModal3" src="images/TTF-thumbnail.png" alt="" /></span></div>
 												<div class="inner">
 												<h4>Ticket To Freedom by Wendy Collier</h4>
-												<p>Client launching her telesummit for the 2nd time. She preferred Wordpress and using Divi and Optimizepress as her themes. My creation involved but not limited to recreation of the landing page's layout, HTML/CSS customization, integration to <a href="https://www.aweber.com/" target="_blank">Aweber</a> (email marketing software) with weekly newsletter setup, speaker interviews editing and infographics for social sharing. Working with her again made it easier because I'm already familiar of the things that needed to be done. I may had encounter url issues on some of her repeated directories but I resolved the matter efficiently.</p>
+												<p>Client launching her telesummit for the 2nd time. She preferred Wordpress and using <a href="https://www.elegantthemes.com/gallery/divi/" target="_blank">Divi</a> and <a href="https://www.optimizepress.com/" target="_blank">Optimizepress</a> as her themes. My creation involved but not limited to recreation of the landing page's layout, HTML/CSS customization, integration to <a href="https://www.aweber.com/" target="_blank">Aweber</a> (email marketing software) with weekly newsletter setup, speaker interviews editing and infographics for social sharing. Working with her again made it easier because I'm already familiar of the things that needed to be done. I may had encounter url issues on some of her repeated directories but I resolved the matter efficiently.</p>
 											</div>
 										</article>
 									</div>
