@@ -2,12 +2,12 @@
 <html>
 	<head>
 		<title>Guen Tabanag a Web Developer based from Sydney</title>
-		<meta name="description" content="A #woman_in_tech who loves building your internet present using custom Wordpress pages.">
+		<meta name="description" content="A #womenintech who loves building your internet present using custom Wordpress pages.">
 		<meta name=”robots” content="index, follow">
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<meta property="og:title" content="Guen Tabanag a Web Developer based from Sydney" />
-		<meta property="og:description" content="A #woman_in_tech who loves building your internet present using custom Wordpress pages." />
+		<meta property="og:description" content="A #womenintech who loves building your internet present using custom Wordpress pages." />
 		<meta property="og:type" content="website" />
 		<meta property="og:url" content="https://guentabanag.github.io/" />
 		<meta property="og:image" content="images/guen-porfolio-social-image.png" />
