@@ -56,9 +56,9 @@
 								<div class="container">
 									<header class="major">
 										<h2>Hi, I'm Guen</h2>
-										<p>A highly skilled in designing and developing custom Wordpress pages living in Sydney, Australia.</p>
+										<p>Highly skilled in designing and developing custom Wordpress pages living in Sydney, Australia.</p>
 									</header>
-									<p>I'm a mother of two from Philippines and have been into freelancing for over 10 years, which made me independent and reliable. I love creating <b>beautiful and functional</b> websites for small businesses. I'm proficient in the area of front-end design and development.</p>
+									<p>I'm a mother of two from Philippines, and have been into freelancing for over 10 years, which made me independent and reliable. I love creating <b>beautiful and functional</b> websites for small businesses. I'm proficient in the area of front-end design and development.</p>
 									<p>When I'm not in my active web development mode. You will see me cooking dinner, baking and hanging out with my family especially to my 3 years old princess or reading self-development books. Which for the first time in my life finished two books I enjoyed during COVID, these are <i>"The Subtle Art of Not Giving a F*ck by Mark Manson"</i> and <i>"The Courage to Be Disliked by Fumitake Koga, Ichiro Kishimi"</i>.</p>
 									<h3>Things I Enjoy</h3>
 									<ul class="icons">
