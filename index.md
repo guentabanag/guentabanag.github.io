@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Guen Tabanag is a Web Developer based in Sydney</title>
+		<title>Guen Tabanag is a Front-end Web Developer based in Sydney</title>
 		<meta name="description" content="A #womenintech who loves building your internet present using custom Wordpress pages.">
 		<meta name=”robots” content="index, follow">
 		<meta charset="utf-8" />
